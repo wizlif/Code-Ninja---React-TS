@@ -1,0 +1,15 @@
+.blog-item {
+  @apply mb-2 p-3 hover:shadow-md;
+}
+
+.blog-item h1 {
+  @apply font-medium text-lg text-pink-700;
+}
+
+.blog-item p {
+  @apply text-sm;
+}
+
+.blog-item button {
+  @apply bg-pink-600 rounded p-2 text-white mt-1;
+}

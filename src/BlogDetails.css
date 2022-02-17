@@ -1,0 +1,6 @@
+.blog-details {
+  @apply p-6;
+}
+.blog-details h1 {
+  @apply font-bold text-3xl text-gray-600;
+}
